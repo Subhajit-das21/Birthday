@@ -80,7 +80,7 @@ export default function Home() {
           transition={{ delay: 0.4, duration: 0.6 }}
           className="text-lg md:text-xl text-blue-100 mb-6"
         >
-          A most special day of your life. Happy 19th birthday, 💙
+          A most special day of your life. Happy 19th birthday ! 💙
         </motion.p>
 
         {/* 🎂 Cake */}
