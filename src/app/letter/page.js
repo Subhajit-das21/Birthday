@@ -7,17 +7,17 @@ export default function LetterPage() {
   const [unlocked, setUnlocked] = useState(false);
   const [password, setPassword] = useState('');
   const [typedLetter, setTypedLetter] = useState('');
-  const fullLetter = `Hi Tuaaa 💙
+  const fullLetter = ` Hi Tuaaa 💙
 
-Happy Birthday! 🥳 I hope your day is filled with smiles, sweet surprises, and all the little things that make you happiest.
+  Happy Birthday! 🥳 I hope your day is filled with smiles, sweet surprises, and all the little things that make you happiest.
 
-You are one of the kindest and most amazing people I know, and I feel lucky to be part of your story—even in the smallest ways.
+  You are one of the kindest and most amazing people I know, and I feel lucky to be part of your story—even in the smallest ways.
 
-Keep being you, because the world (and we) are better with you in it.
+  Keep being you, because the world (and we) are better with you in it.
 
-Here’s to more laughter, growth, and beautiful memories ahead. Have the best day ever—you totally deserve it. 🎂✨
+  Here’s to more laughter, growth, and beautiful memories ahead. Have the best day ever—you totally deserve it. 🎂✨
 
-– Subhajit`;
+  – Subhajit`;
 
   const audioRef = useRef(null);
 
