@@ -50,6 +50,51 @@ const questions = [
       "All of the above x 1000"
     ],
   },
+  {
+    question: "What’s Tuaaa’s favorite food?",
+    options: [
+      "Momos 🥟",
+      "Pizza 🍕",
+      "Ice Cream 🍨",
+      "All of the above, depending on mood 😋"
+    ],
+  },
+  {
+    question: "Where would Tuaaa love to go for a dream date?",
+    options: [
+      "A cozy rooftop under the stars ✨",
+      "A cute café with fairy lights ☕",
+      "A beach during sunset 🌅",
+      "Anywhere, as long as it’s with me 💖"
+    ],
+  },
+  {
+    question: "What makes Tuaaa smile instantly?",
+    options: [
+      "Cute dog videos 🐾",
+      "Unexpected compliments",
+      "Chocolate 🍫",
+      "Me, obviously 😉"
+    ],
+  },
+  {
+    question: "What color suits Tuaaa the most?",
+    options: [
+      "Blue 💙",
+      "Pastel Pink 🎀",
+      "Black – classic and elegant 🖤",
+      "Every color – she makes them shine ✨"
+    ],
+  },
+  {
+    question: "What’s the best way to cheer up Tuaaa?",
+    options: [
+      "A tight warm hug 🤗",
+      "Sending her favorite memes 😂",
+      "Whispering sweet nothings 💬",
+      "All of the above, anytime 🥰"
+    ],
+  }
 ];
 
 export default function QuizPage() {
